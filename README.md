@@ -14,6 +14,10 @@ Library to install.
 3. pip install tk / tkinter
 4. pip install Pillow
 
+Note:-
+* Save Tesseract file inside the root folder.
 * Image folder contain the background image of the canvas.
+* You can choose image for detection from any path from your system without changing the path inside the code.
+
 
 
